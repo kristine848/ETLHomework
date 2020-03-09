@@ -1,0 +1,17 @@
+﻿"Employee
+ ID",USAP ID,Last Name,First Name,Middle Name,Job Title,Billet,Station/Season,DOH,Scheduled ON-ICE Date,End Date of salary,MAM # of days, Weekly Salary ,Uplift ,Bonus Eligible Y/N, Annual ,Hiring Manager,WD? ,Notes,Timesheet Approver,Group Timekeeper
+1,1,Employee1Last,Employee1first,,PIPEFITTER,PK03,2020 Winter South Pole,17-Mar-20,18-Mar-20,,,"$1,000.00 ",16%,,"$52,000.00 ",Manager1,,,,
+2,2,Employee2last,Employee2first,,LINEMAN FOREMAN,EO02,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,200.00 ",24%,,"$62,400.00 ",Manager2,,,,
+3,3,Employee3last,Employee3first,,"MECHANIC, WATER PLANT",LD02,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,100.00 ",16%,,"$57,200.00 ",Manager3,,,,
+4,4,Employee4last,Employee4first,,CARPENTER,CC14,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,300.00 ",16%,,"$67,600.00 ",Manager2,,,,
+5,5,Employee5last,Employee5first,,EQUIPMENT OPERATOR ,OD08,2020 Winter McMurdo,19-Mar-20,Already on ice,,,"$1,000.00 ",24%,,"$52,000.00 ",Manager4,,,,
+6,6,Employee6last,Employee6first,,FUELS OPERATOR ,HQ18,2019-2020 Summer McMurdo,9-Mar-20,Already on ice,,,"$1,000.00 ",24%,,"$52,000.00 ",Manager5,,,,
+7,7,Employee7last,Employee7first,,FIREFIGHTER,HV32,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,200.00 ",16%,,"$62,400.00 ",Manager6,,,,
+8,8,Employee8last,Employee8first,,FIREFIGHTER,HV41,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,100.00 ",16%,,"$57,200.00 ",Manager6,,,,
+9,9,Employee9last,Employee9first,,FIREFIGHTER,HV31,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,300.00 ",16%,,"$67,600.00 ",Manager6,,,,
+10,10,Employee10last,Employee10first,,INSULATOR,IB03,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,000.00 ",16%,,"$52,000.00 ",Manger2,,,,
+11,11,Employee11last,Employee11first,,INSULATOR FOREMAN,IG03,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,000.00 ",24%,,"$52,000.00 ",Manger2,,,,
+12,12,Employee12last,Employee12first,,"OPERATOR, HEAVY EQUIPMENT",OD19,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,200.00 ",16%,,"$62,400.00 ",Manager4,,,,
+13,13,Employee13last,Employee13first,,PIPEFITTER,PK03,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,100.00 ",16%,,"$57,200.00 ",Manager1,,,,
+14,14,Employee14last,Employee14first,,PREVENTIVE MAINT COORDINATOR,HA01,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,300.00 ",24%,,"$67,600.00 ",Manager2,,,,
+15,15,Employee15last,Employee15first,,SHEETMETAL WORKER,SO02,2020 Winter McMurdo,17-Mar-20,18-Mar-20,,,"$1,000.00 ",16%,,"$52,000.00 ",Manager2,,,,
